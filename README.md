@@ -1,2 +1,2 @@
 # olymp-programming
-uigrfyug aasd
+uigrfyug aasda
