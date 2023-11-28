@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c40677485fced17",
+        "id": "f557d0d836058b52",
         "type": "tabs",
         "children": [
           {
-            "id": "9209464c6efc018b",
+            "id": "7b584f89ff3ac43a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структуры данный/Список.md",
+                "file": "Структура документации/С++.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f07ef39f68faa705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры данный/Граф.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cddc5fc4309b741b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры данный/Бинарное дерево.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e4fa642dc06449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры данный/Дерево.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e77a3ba76de5177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры данный/Бинарное дерево.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c92ca8e604454ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура документации/Алгоритмы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55f5dc297a383551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "с++/STL/cmath/Без названия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f55b773300094b42",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура документации/Алгоритмы.md",
+                "file": "Структура документации/С++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура документации/Алгоритмы.md",
+                "file": "Структура документации/С++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура документации/Алгоритмы.md"
+                "file": "Структура документации/С++.md"
               }
             }
           },
@@ -235,15 +154,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9c92ca8e604454ac",
+  "active": "7b584f89ff3ac43a",
   "lastOpenFiles": [
-    "Олимпиады/ВСОШ.md",
     "Структура документации/Олимпиады.md",
     "Структура документации/Образовательные организации.md",
-    "Структура документации/Алгоритмы.md",
-    "с++/STL/vector STL c++.md",
+    "Структура документации/Структуры данных.md",
+    "Структуры данный/Граф.md",
     "с++/STL/cmath/Без названия.md",
+    "Структура документации/Алгоритмы.md",
+    "templates/Задача.md",
     "Без названия.md",
+    "templates",
+    "Олимпиады/ВСОШ.md",
+    "с++/STL/vector STL c++.md",
     "Без названия 1.md",
     "Задачи",
     "с++/STL/cmath/Тригонома.md",
@@ -256,11 +179,9 @@
     "с++/STL/cmath",
     "с++/STL/array STL c++.md",
     "Образовательные организации/ИТМО.md",
-    "Структура документации/Структуры данных.md",
     "Структуры данный/Бинарное дерево.md",
     "Структуры данный/Дерево.md",
     "Структуры данный/Список.md",
-    "Структуры данный/Граф.md",
     "Структуры данный/Дерево отрезков.md",
     "Структуры данный/Стек.md",
     "Структура документации/Справочные материалы.md",
@@ -270,7 +191,6 @@
     "с++/Реализация структур данных",
     "с++/Реализация алгоритмов",
     "Структуры данный",
-    "Алгоритмы",
-    "с++"
+    "Алгоритмы"
   ]
 }
