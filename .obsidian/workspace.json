@@ -11,8 +11,12 @@
             "id": "7b584f89ff3ac43a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Образовательные организации/ИТМО.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Образовательные организации/ИТМО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Образовательные организации/ИТМО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Образовательные организации/ИТМО.md"
+              }
             }
           },
           {
@@ -148,6 +156,8 @@
   },
   "active": "7b584f89ff3ac43a",
   "lastOpenFiles": [
+    "Образовательные организации/ИТМО.md",
+    "Олимпиады/ВСОШ.md",
     "Структура документации/Структуры данных.md",
     "Структура документации/Справочные материалы.md",
     "Структура документации/Алгоритмы.md",
@@ -164,7 +174,6 @@
     "templates/Задача.md",
     "Без названия.md",
     "templates",
-    "Олимпиады/ВСОШ.md",
     "с++/STL/vector STL c++.md",
     "Без названия 1.md",
     "Задачи",
@@ -176,7 +185,6 @@
     "с++/STL/list STL c++.md",
     "с++/STL/cmath",
     "с++/STL/array STL c++.md",
-    "Образовательные организации/ИТМО.md",
     "Образовательные организации",
     "Олимпиады",
     "с++/STL",
