@@ -16,19 +16,67 @@
             }
           },
           {
-            "id": "cb6e95f5ce0496d9",
+            "id": "9d7ae8d456a10251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Структура документации/Темы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dc3e039f347dd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура документации/Темы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f235a4c989e96607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура документации/С++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd0a695171436e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура документации/С++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6c86330b37a40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура документации/Структуры данных.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Структура документации/Темы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Структура документации/Темы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Структура документации/Темы.md"
               }
             }
           },
@@ -163,8 +211,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cb6e95f5ce0496d9",
+  "active": "1dc3e039f347dd4b",
   "lastOpenFiles": [
-    "Без названия.md"
+    "Структура документации/Алгоритмы.md",
+    "Структура документации/Практика.md",
+    "Структура документации/Темы.md",
+    "Структура документации/Образовательные организации.md",
+    "Образовательные организации",
+    "Структура документации/ВУЗы.md",
+    "Структура документации/С++.md",
+    "Структура документации/Олимпиады.md",
+    "Олимпиады",
+    "Без названия.md",
+    "Без названия 1.md",
+    "с++/STL",
+    "с++/Реализация структур данных",
+    "с++/Реализация алгоритмов",
+    "Структуры данный",
+    "Алгоритмы",
+    "с++",
+    "Структура документации/Структуры данных.md",
+    "Структура документации/Справочные материалы.md",
+    "Структура документации"
   ]
 }
