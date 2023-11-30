@@ -157,6 +157,14 @@
             }
           },
           {
+            "id": "c404957d832bb150",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "6c9b74f45f1ba76a",
             "type": "leaf",
             "state": {
@@ -165,21 +173,13 @@
                 "file": "Структура документации/Справочные материалы.md"
               }
             }
-          },
-          {
-            "id": "c404957d832bb150",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "043b02f587d3c680",
+  "active": "c404957d832bb150",
   "lastOpenFiles": [
     "Алгоритмы/Сортировка кучей.md",
     "Алгоритмы/Сортировка подсчетом.md",
