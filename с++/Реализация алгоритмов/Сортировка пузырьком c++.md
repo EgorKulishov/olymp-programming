@@ -23,5 +23,3 @@ void bubble_sort(iter_type begin, iter_type end, compare_type comp) {
     }
 }
 ```
-
-произойдёт 
