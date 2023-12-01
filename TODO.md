@@ -6,7 +6,7 @@
 - Quick sort
 - Merge sort
 - Дейкстра
-- DFS
+- DFS c++
 - BFS
 - Стек
 - Очередь
