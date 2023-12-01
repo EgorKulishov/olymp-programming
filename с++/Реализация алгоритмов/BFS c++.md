@@ -11,7 +11,7 @@ struct Vertex {
     bool was = false;
 };
 
-void bfs(int initial, std::vector<Vertex> graph) {
+void bfs(int initial, std::vector<Vertex>& graph) {
     std::queue<int> vertex_queue;
     vertex_queue.push(initial);
     graph[initial].was = true;
@@ -26,10 +26,11 @@ void bfs(int initial, std::vector<Vertex> graph) {
 
                 // Нужно именно после добавления вешины в очередь для того, чтобы эту вершину, как соседа другой вершины, не добавили в очередь повторно 
                 graph[neighbor].was = true; 
+				/*
+				Ещё что-то делаем, если надо
+				*/
             }
-            /*
-            Ещё что-то делаем, если надо
-            */
+
         }
     }
     /* Если если нужно проверить граф на связность
