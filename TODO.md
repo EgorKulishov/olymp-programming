@@ -6,7 +6,6 @@
 - Quick sort
 - Merge sort
 - Дейкстра
-- DFS c++
 - Стек
 - Очередь
 - Олипиады
